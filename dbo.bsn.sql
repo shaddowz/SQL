@@ -1,6 +1,12 @@
 USE [AdventureWorks2017]
 GO
-/*  text    */
+/*  
+
+
+text goes here
+
+
+  */
 
 SET ANSI_NULLS ON
 GO
