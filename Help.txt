@@ -1,6 +1,12 @@
+
+cd to the right folder
+
+
 git clone <url> <where to clone(. = current dir)>
 ex. 
 git clone https://github.com/shaddowz/SQL.git .
+
+git init 
 
 git branch testing
 git checkout testing
