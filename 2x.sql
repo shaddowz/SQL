@@ -8,6 +8,7 @@ and id is not null
 and id != ''
 )
 
+/*  dont forget to check this out. */
 --DELETE x
 --FROM TableX x
 --INNER JOIN cte ON cte.id = x.id
